@@ -45,8 +45,7 @@ Tedd James
     
 4. **Start the Development Server:**
     ```bash
-    npm start
-The application will run at http://localhost:3000.
+    npm run dev
 
 ## Project Structure
     ```
